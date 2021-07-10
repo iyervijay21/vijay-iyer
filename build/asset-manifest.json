@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae9b020d.chunk.css",
+    "main.js": "/static/js/main.c532d350.chunk.js",
+    "main.js.map": "/static/js/main.c532d350.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.803a060e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.803a060e.js.map",
+    "static/css/2.63452bb0.chunk.css": "/static/css/2.63452bb0.chunk.css",
+    "static/js/2.63a6889e.chunk.js": "/static/js/2.63a6889e.chunk.js",
+    "static/js/2.63a6889e.chunk.js.map": "/static/js/2.63a6889e.chunk.js.map",
+    "static/js/3.5500e65d.chunk.js": "/static/js/3.5500e65d.chunk.js",
+    "static/js/3.5500e65d.chunk.js.map": "/static/js/3.5500e65d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.63452bb0.chunk.css.map": "/static/css/2.63452bb0.chunk.css.map",
+    "static/css/main.ae9b020d.chunk.css.map": "/static/css/main.ae9b020d.chunk.css.map",
+    "static/js/2.63a6889e.chunk.js.LICENSE.txt": "/static/js/2.63a6889e.chunk.js.LICENSE.txt",
+    "static/media/genshin.d63fe14f.jpg": "/static/media/genshin.d63fe14f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803a060e.js",
+    "static/css/2.63452bb0.chunk.css",
+    "static/js/2.63a6889e.chunk.js",
+    "static/css/main.ae9b020d.chunk.css",
+    "static/js/main.c532d350.chunk.js"
+  ]
+}
